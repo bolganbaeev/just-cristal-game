@@ -1,0 +1,6 @@
+{
+  "name": "Cristal Zombie",
+  "description": "Cross-platform LAN co-op crystal defense arcade game for Android, iPhone, and Web browsers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

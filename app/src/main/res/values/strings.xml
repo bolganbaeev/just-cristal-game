@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cristal Zombie</string>
+    <string name="host_game">Host LAN Game</string>
+    <string name="join_game">Join Game</string>
+    <string name="solo_game">Solo Defense</string>
+    <string name="crystal_integrity">Crystal Core</string>
+    <string name="wave_title">Wave</string>
+    <string name="game_over">Crystal Destroyed!</string>
+    <string name="victory">Wave Cleared!</string>
+</resources>
